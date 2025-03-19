@@ -1,0 +1,9 @@
+[package]
+name = "liblaf-hello"
+authors.workspace = true
+edition.workspace = true
+version.workspace = true
+
+[dependencies]
+tokio.workspace = true
+trait-variant.workspace = true
